@@ -1,0 +1,7 @@
+eng-to-ipa==0.0.2
+gTTS==2.2.2
+telepot==12.7
+nltk==3.5
+python-telegram-bot==13.7
+
+

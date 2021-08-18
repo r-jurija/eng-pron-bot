@@ -11,8 +11,8 @@ import eng_to_ipa as ipa
 import sys
 import os
 
-token = "1763332993:AAESxMSl-VKAm10g8U3hGob90-2xuarasH8"
-bot = telegram.Bot("1763332993:AAESxMSl-VKAm10g8U3hGob90-2xuarasH8")
+token = "YOUR TOKEN"
+bot = telegram.Bot("YOUR TOKEN")
 
 
 print(bot.get_me())
